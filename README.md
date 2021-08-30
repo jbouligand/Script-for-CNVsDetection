@@ -13,4 +13,4 @@ Females/ to put among patients files those (at least 6 files) corresponding to a
 
 Note : Python script for Python version 2.7
 
-Author : Christophe Habib, Bioinformatician (2015-2018 in our lab - email : christophe.habib@gmail.com)
+Author : Christophe Habib, Bioinformatician (2015-2017 in our lab - email : christophe.habib@gmail.com)
